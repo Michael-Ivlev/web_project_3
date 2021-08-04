@@ -10,7 +10,13 @@
 
 @media screen and (max-width: 1024px){
     .header{
-     
+        padding: 0 24px;
+    }
+}
+
+@media screen and (max-width: 768px){
+    .header{
+        padding: 20px 16px 50px;
     }
 }
 
