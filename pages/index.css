@@ -4,7 +4,7 @@
 /* header */
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__lang-link/header__lang-link.css);
-@import url(../blocks/header/__lang-link/_active/header__lang-link_active.css);
+@import url(../blocks/header/__lang-link/_active/header__link_active.css);
 @import url(../blocks/header/__link-container/header__link-container.css);
 /* lead */
 @import url(../blocks/lead/lead.css);
