@@ -1,0 +1,15 @@
+.places{
+    max-width: 984px;
+    margin: auto;
+    padding: 92px 0;
+    display: grid;
+    grid-template-columns: 1;
+    row-gap: 80px;
+}
+
+@media screen and (max-width: 1124px) {
+    .place {
+      padding-left: 2%;
+      padding-right: 2%;
+    }
+  }
