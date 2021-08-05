@@ -1,4 +1,4 @@
-.place__paragraph_secound {
+.place__paragraph-main {
   font-family: Inter;
   font-style: normal;
   font-weight: normal;
@@ -10,7 +10,7 @@
 }
 
 @media screen and (max-width: 768px) {
-  .place__paragraph_secound {
+  .place__paragraph-main {
     font-size: 16px;
     line-height: 163%;
   }
