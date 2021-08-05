@@ -1,4 +1,4 @@
-.place__cost {
+.place__paragraph-item {
   font-family: Inter;
   font-style: normal;
   font-weight: normal;
@@ -9,9 +9,15 @@
   padding: 0;
 }
 
+.place__paragraph-item:nth-child(3n){
+    margin-top: 25px;
+}
+.place__paragraph-item:nth-child(2n){
+  margin-top: 25px;
+}
+
 @media screen and (max-width: 768px) {
-  .place__cost {
+  .place__paragraph-main {
     font-size: 16px;
-    line-height: 26px;
   }
 }
