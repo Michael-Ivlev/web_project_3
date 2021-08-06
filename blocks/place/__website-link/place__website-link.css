@@ -1,5 +1,5 @@
 .place__website-link {
-  font-family: Inter;
+  font-family: Inter, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
@@ -9,3 +9,11 @@
   margin: 0;
   padding: 0;
 }
+
+@media screen and (max-width: 425px) {
+  .place__website-link {
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+}
+

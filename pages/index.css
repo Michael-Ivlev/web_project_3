@@ -40,13 +40,13 @@
 @import url(../blocks/place/__website/place__website.css);
 @import url(../blocks/place/__website-url-heading/place__website-url-heading.css);
 @import url(../blocks/place/__website-link/place__website-link.css);
+@import url(../blocks/place/__paragraph/place__paragraph.css);
 @import url(../blocks/place/__paragraph-item/place__paragraph-item.css);
 /* cover */
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/cover/__item/cover__item.css);
 @import url(../blocks/cover/__title/cover__title.css);
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
-@import url(../blocks/cover/__image/cover__image.css);
 /* footer */
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__links/footer__links.css);

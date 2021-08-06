@@ -1,5 +1,5 @@
 .place__paragraph-item {
-  font-family: Inter;
+  font-family: Inter, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
@@ -9,15 +9,15 @@
   padding: 0;
 }
 
-.place__paragraph-item:nth-child(3n){
-    margin-top: 25px;
+.place__paragraph-item:nth-child(3n) {
+  margin-top: 25px;
 }
-.place__paragraph-item:nth-child(2n){
+.place__paragraph-item:nth-child(2n) {
   margin-top: 25px;
 }
 
 @media screen and (max-width: 768px) {
-  .place__paragraph-main {
+  .place__paragraph-item {
     font-size: 16px;
   }
 }
